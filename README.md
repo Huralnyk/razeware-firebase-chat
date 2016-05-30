@@ -8,5 +8,5 @@ Project is updated to Firebase 3.2.0
 
 * Setup Firebase project
 * Provide configuration file ```GoogleService-Info.plist```
-* Intall pods
+* Install pods
 * Update ```rootRef``` in *ChatViewController.swift* with your own Firebase App URL.
